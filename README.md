@@ -1,5 +1,5 @@
 
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/zu3MWDMUU9581jLT6v/giphy.gif?cid=ecf05e47vmpcnir0l26z9v5bvln82l6xnvyo6q7ndgbkcycc&rid=giphy.gif&ct=g" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/3o7qE5ceqLBHRR0C64/giphy.gif?cid=ecf05e47f2x5oe2kg3i5q2n4psrapf2nr1og282pq04yjcam&rid=giphy.gif&ct=g" />
 
 
 - 👋 Hi, I’m Vo Long
